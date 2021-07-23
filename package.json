@@ -18,7 +18,7 @@
     "apollo-client": "^2.6.10",
     "graphql": "^15.4.0",
     "graphql-tag": "^2.11.0",
-    "ra-data-hasura": "^0.1.0",
+    "ra-data-hasura": "^0.2.0",
     "react": "^16.13.1",
     "react-admin": "^3.6.0",
     "react-dom": "^16.13.1",
