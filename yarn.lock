@@ -9427,10 +9427,10 @@ ra-core@^3.10.2:
     query-string "^5.1.1"
     reselect "~3.0.0"
 
-ra-data-graphql@^3.6.1:
-  version "3.10.1"
-  resolved "https://registry.yarnpkg.com/ra-data-graphql/-/ra-data-graphql-3.10.1.tgz#1f872f69a3f036be58dc2feba8df52ae5f74ff29"
-  integrity sha512-uWXL5AUnEXsdF2AH+LWdLHTtJxd/DPvEAYySSP9m/PUSr9dquuoLQ/3A4PzXRRqhGGjWiDuwefOW1j7X2o9CdQ==
+ra-data-graphql@^3.11.4:
+  version "3.11.4"
+  resolved "https://registry.yarnpkg.com/ra-data-graphql/-/ra-data-graphql-3.11.4.tgz#d4ab31fffd0e7494960fa6e5777865a4b782f34b"
+  integrity sha512-AZVQLscTQ99a6eLkALWiUFQR4l23unos4PjLwZRG8vqEN9DnwAdkZyvei7DOr/Nd0Tq90eaJm7Xi3+q9H3jtcw==
   dependencies:
     apollo-client "^2.6.3"
     apollo-client-preset "^1.0.8"
@@ -9438,16 +9438,16 @@ ra-data-graphql@^3.6.1:
     lodash "~4.17.5"
     pluralize "~7.0.0"
 
-ra-data-hasura@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/ra-data-hasura/-/ra-data-hasura-0.1.0.tgz#f5717bf8d9c1f1a75573fd43a26a9fcd3799d00b"
-  integrity sha512-Q9i5qrxlDEqyCJ160jCrD2vLG4BP1VDFj6dfZGIJ0sHknu/7/dLkAMz3QtlZ98n3i/eL08wkpy2BYAzxbU075g==
+ra-data-hasura@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/ra-data-hasura/-/ra-data-hasura-0.2.0.tgz#c244dbbf33d78a960ede16f8bee27a756ffc252f"
+  integrity sha512-ROcJhsjIBduAI+DbYNQiGmtuj88Boi4BaLkmpCI92Y4ruWXnikQ4iGTdSxQk66fq5OZ8JaHPBnYVjSsfQakJHw==
   dependencies:
     graphql-ast-types-browser "~1.0.2"
     kind-of ">=6.0.3"
     lodash "~4.17.5"
     minimist ">=1.2.3"
-    ra-data-graphql "^3.6.1"
+    ra-data-graphql "^3.11.4"
 
 ra-i18n-polyglot@^3.10.2:
   version "3.10.2"
