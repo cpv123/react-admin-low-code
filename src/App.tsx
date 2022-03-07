@@ -10,7 +10,7 @@ import {
 import { UsersList, UsersShow, UsersIcon } from './resources/users';
 import customBuildFields from './custom-build-fields';
 
-const GRAPHQL_URI = 'https://low-code-api.herokuapp.com/v1/graphql';
+const GRAPHQL_URI = 'https://react-admin-low-code.hasura.app/v1/graphql';
 
 const clientOptions = { uri: GRAPHQL_URI };
 
